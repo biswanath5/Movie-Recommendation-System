@@ -1,5 +1,5 @@
 # 🎬 Movie Recommendation System
-https://movie-recommendation-system-str.streamlit.app/
+## App link: https://movie-recommendation-system-str.streamlit.app/
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-green)](https://streamlit.io/)
