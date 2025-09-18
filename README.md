@@ -78,7 +78,3 @@ Open the URL shown in your terminal to access the interactive app.
 
 ## Screenshots
 <img width="947" height="402" alt="image" src="https://github.com/user-attachments/assets/fffaf6b4-8501-42ce-ae08-4ade75032a22" />
-
-
-git clone https://github.com/yourusername/movie-recommendation-system.git
-cd movie-recommendation-system
