@@ -59,8 +59,8 @@ The project uses a sample **Movies Metadata dataset** (`movies.csv`).
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/biswanath5/Movie-Recommendation-System.git
-cd Movie-Recommendation-System
+git clone https://github.com/biswanath5/movie-recommendation-system.git
+cd movie-recommendation-system
 ```
 ### 2️⃣ Install Dependencies
 ```bash
