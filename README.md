@@ -62,15 +62,15 @@ The project uses a sample **Movies Metadata dataset** (`movies.csv`).
 git clone https://github.com/biswanath5/Movie-Recommendation-System.git
 cd Movie-Recommendation-System
 ```
-###2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-###3️⃣ Run Jupyter Notebook
+### 3️⃣ Run Jupyter Notebook
 ```bash
 jupyter notebook "Movie Recommendation System.ipynb"
 ```
-###4️⃣ Run Streamlit App
+### 4️⃣ Run Streamlit App
 ```bash
 streamlit run app.py
 ```
